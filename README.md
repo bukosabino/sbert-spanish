@@ -14,3 +14,9 @@ The trained models are fine-tuned versions of [PlanTL-GOB-ES/roberta-base-bne](h
 # Models trained
 
 In progress...
+
+# Resources
+
+* https://www.sbert.net/index.html
+* https://github.com/UKPLab/sentence-transformers 
+* https://www.pinecone.io/learn/nlp/ 
