@@ -10,3 +10,7 @@ The trained models are fine-tuned versions of [PlanTL-GOB-ES/roberta-base-bne](h
 
 * https://huggingface.co/datasets/dariolopez/ms-marco-es (query - positive - negative)
 * https://huggingface.co/datasets/IIC/ms_marco_es (query - passage - label)
+
+# Models trained
+
+In progress...
