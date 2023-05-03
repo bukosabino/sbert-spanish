@@ -13,14 +13,19 @@ The trained models are fine-tuned versions of [PlanTL-GOB-ES/roberta-base-bne](h
 
 # Models trained
 
-1. Dataset: dariolopez/ms-marco-es; Loss: TripletLoss
-[Link](dariolopez/roberta-base-bne-finetuned-msmarco-qa-es)
+We have trained several versions, using different configurations:
 
-1. Dataset: dariolopez/ms-marco-es; Loss: MultipleNegativesRankingLoss
-Link (in progress)
+1. Model 1
+  Dataset: dariolopez/ms-marco-es; Loss: TripletLoss
+  [Link](dariolopez/roberta-base-bne-finetuned-msmarco-qa-es)
 
-1. Dataset: IIC/ms_marco_es; Loss: MultipleNegativesRankingLoss
-Link (in progress)
+1. Model 2
+  Dataset: dariolopez/ms-marco-es; Loss: MultipleNegativesRankingLoss
+  Link (in progress)
+
+1. Model 3
+  Dataset: IIC/ms_marco_es; Loss: MultipleNegativesRankingLoss
+  Link (in progress)
 
 # Resources
 
