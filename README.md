@@ -17,15 +17,16 @@ We have trained several versions, using different configurations:
   * Loss: TripletLoss
 
 * **Model 2**
-  * Link (in progress)
-  * Config (in progress)
-  * Dataset: [dariolopez/ms-marco-es](https://huggingface.co/datasets/dariolopez/ms-marco-es) (query - positive - negative)
+  * [Link](https://huggingface.co/dariolopez/roberta-base-bne-finetuned-msmarco-qa-es-mnrl-mn)
+  * [Config](https://huggingface.co/dariolopez/roberta-base-bne-finetuned-msmarco-qa-es-mnrl-mn/blob/main/train_config.json)
+  * Dataset: [IIC/ms_marco_es](https://huggingface.co/datasets/IIC/ms_marco_es) (query - passage - label)
+  * Dataset: [dariolopez/ms-marco-es](https://huggingface.co/datasets/dariolopez/ms-marco-es) (query - positive - negative - negative - negative - negative)
   * Loss: MultipleNegativesRankingLoss
 
 * **Model 3**
   * Link (in progress)
   * Config (in progress)
-  * Dataset: [IIC/ms_marco_es](https://huggingface.co/datasets/IIC/ms_marco_es) (query - passage - label)
+  * Dataset: [dariolopez/ms-marco-es](https://huggingface.co/datasets/dariolopez/ms-marco-es) (query - positive - negative)
   * Loss: MultipleNegativesRankingLoss
 
 # Resources
